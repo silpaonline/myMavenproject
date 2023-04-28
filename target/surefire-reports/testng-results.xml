@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T17:53:54 IST" name="Suite" finished-at="2023-04-27T17:54:34 IST" duration-ms="39723">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T17:53:54 IST" name="Test" finished-at="2023-04-27T17:54:34 IST" duration-ms="39723">
+      <class name="com.test.Login">
+        <test-method signature="login()[pri:0, instance:com.test.Login@647e447]" started-at="2023-04-27T17:53:54 IST" name="login" finished-at="2023-04-27T17:54:34 IST" duration-ms="39503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.test.Login -->
+      <class name="com.test.AppTesst">
+        <test-method signature="testlogin1()[pri:0, instance:com.test.AppTesst@2ef3eef9]" started-at="2023-04-27T17:54:34 IST" name="testlogin1" finished-at="2023-04-27T17:54:34 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin1 -->
+        <test-method signature="testlogin2()[pri:0, instance:com.test.AppTesst@2ef3eef9]" started-at="2023-04-27T17:54:34 IST" name="testlogin2" finished-at="2023-04-27T17:54:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin2 -->
+      </class> <!-- com.test.AppTesst -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
